@@ -1,0 +1,10 @@
+{
+    "name": "aung/calculator",
+    "description": "Custom Package Devleopment",
+    "autoload": {
+        "psr-4": {
+            "Aung\\Calculator\\": "src/"
+        }
+    },
+    "require": {}
+}
